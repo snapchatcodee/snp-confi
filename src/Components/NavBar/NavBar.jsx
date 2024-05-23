@@ -7,7 +7,7 @@ class Navbar extends Component {
             <nav className="NavbarItems">
                 <h1 className="navbar-logo">
                 </h1>
-                <h1 className="text-center text-gray-700">Group SnapChat</h1>
+                <h1 className="text-center text-gray-700">التأكيد عبر السناب</h1>
             </nav>
         )
     }
