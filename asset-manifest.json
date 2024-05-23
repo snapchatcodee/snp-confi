@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snp-confi/static/css/main.541ea205.css",
+    "main.js": "/snp-confi/static/js/main.6b2847e4.js",
+    "index.html": "/snp-confi/index.html",
+    "main.541ea205.css.map": "/snp-confi/static/css/main.541ea205.css.map",
+    "main.6b2847e4.js.map": "/snp-confi/static/js/main.6b2847e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541ea205.css",
+    "static/js/main.6b2847e4.js"
+  ]
+}
